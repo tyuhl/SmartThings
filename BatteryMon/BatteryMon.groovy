@@ -15,8 +15,8 @@ definition(
 	author: "Tim Yuhl",
 	description: "Alert if low battery",
 	category: "Convenience",
-	iconUrl: "https://github.com/tyuhl/smartthings/assets/batteryicon.png",
-	iconX2Url: "https://github.com/tyuhl/smartthings/assets/batteryicon@2x.png",
+	iconUrl: "https://raw.githubusercontent.com/tyuhl/SmartThings/master/assets/BatteryIcon.png,
+	iconX2Url: "https://raw.githubusercontent.com/tyuhl/SmartThings/master/assets/BatteryIcon%402x.png",
 )
 
 preferences {
